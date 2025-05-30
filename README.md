@@ -42,27 +42,6 @@ Proponer una solución técnica viable basada en sistemas operativos Linux y Win
 - Gestión de tareas: Trello / GitHub Projects (Kanban)
 - Presentación: Google Slides / Canva
 
-## Estructura del Repositorio
-
-Trabajo-ISO-/
-├── scripts/
-│ ├── logs.sh
-│ ├── backup.sh
-│ ├── mantenimiento.sh
-│ ├── estado.sh
-│ ├── crear_usuarios.sh
-│ ├── permisos.sh
-│ └── desactivar_inactivos.sh
-├── imgs/
-│ └── capturas_instalacion/
-├── docs/
-│ ├── memoria.pdf
-│ └── plantilla_iso.pdf
-├── presentacion/
-│ └── video_presentacion.mp4
-└── README.md
-
-
 ## Contenido del Proyecto
 
 - Análisis comparativo Windows vs Linux
